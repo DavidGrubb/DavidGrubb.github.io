@@ -1,0 +1,19 @@
+---
+title: "Experience with R"
+output: html_document
+---
+
+
+
+<hr>
+
+
+* [Reporting with R Markdown](https://www.datacamp.com/statement-of-accomplishment/course/209549c81befa4b0e472c839d6c4c3877595c14d)
+* [Introduction to R](https://www.datacamp.com/statement-of-accomplishment/course/aab355eea2a6f1eda8dd801b22177da161324245)
+* [Introduction to Satistics with R](https://www.datacamp.com/statement-of-accomplishment/course/37c72d0556d1313043e433012bc0fcb3a11276be)
+* [Exploratory Data Analysis](https://www.datacamp.com/statement-of-accomplishment/course/60ed49dd893f184454fec31cc1dad5bf4f66987d)
+* [Data Visualization with ggplot2](https://www.datacamp.com/statement-of-accomplishment/course/d87b8f6d3b1b2c85cecf5d16007d00e55bb5001e)
+* [Foundations of Probability in R](https://www.datacamp.com/statement-of-accomplishment/course/63fdbb136aa6df5a407caf4a03db7b38dc4a3bb1)
+* [Data manipulation in R with dplyr](https://www.datacamp.com/statement-of-accomplishment/course/0ff36209e0491f634e2a1ef2d854c069b701b0ce)
+
+<hr>

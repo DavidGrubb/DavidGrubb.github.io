@@ -1,5 +1,11 @@
 ---
-title: "My Website"
+title: "About Me"
+output: html_document
 ---
 
-Hello, Website!
+**I will be graduating from Appalachian State University in December 2018. My major is Mathematics with a career concentration in business. I enjoy being outside, playing music and riding motorcycles. I grew up just north of Boone in Ashe County North Carolina and I really like learning and experiencing new things. I'm hoping to use what I've learned with R programming to land a job in an analytics field upon graduation.**  
+
+  ![](myphoto2.jpg)
+  ![](Myphoto1.jpg)
+
+**Contact Info**: grubbmd@gmail.com

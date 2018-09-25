@@ -1,9 +1,15 @@
-name: "my-website"
+name: "David Grubb"
 output_dir: "."
 navbar:
-  title: "My Website"
+  title: "David Grubb"
   left:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
+    - text: "Resume"
+      href: Resume.html
+    - text: "Relevant Links"
+      href: relevantlinks.html
+
+output:
+  html_document:
+    theme: sandstone
+    highlight: zenburn
+    
