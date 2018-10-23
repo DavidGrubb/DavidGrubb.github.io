@@ -8,6 +8,8 @@ output: html_document
 
 grubbmd@gmail.com
 
+Link to github repository [here](https://github.com/DavidGrubb)
+
 
 ##**What I can offer**
 
